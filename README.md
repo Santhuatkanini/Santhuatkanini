@@ -7,12 +7,8 @@
 
 - 💬 Ask me about **react,webAPI,SQL**
 
-
 - 📫 How to reach me **getsanthoshn@gmail.com**
 
-- ![qrcode_79485616_7dfaff0ea50d92d4959d06afb4a3044c (1)](https://github.com/Santhuatkanini/Santhuatkanini/assets/125270813/ff8e7a62-2d10-4b98-ba8b-936f89a596ef)
-
-  
 - 👨‍💻 For my complete portfolio : <a href="https://santhu.netlify.app/" target="_blank">**Visit Now** 🚀</a>
 
 <h3 align="left">Connect with me:</h3>
